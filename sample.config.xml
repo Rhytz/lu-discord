@@ -1,0 +1,7 @@
+<settings>
+	<setting name='channel'>my-channel</setting>
+	<setting name='passphrase'>key</setting>
+	<setting name='hostname'>localhost</setting>
+	<setting name='port'>8100</setting>
+	<setting name='adminrole'>Moderator</setting>
+</settings>
