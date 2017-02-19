@@ -1,7 +1,12 @@
 <settings>
+	<!-- the channel where the bot will operate -->
 	<setting name='channel'>my-channel</setting>
+	<!-- unique passphrase for secure commication -->
 	<setting name='passphrase'>key</setting>
+	<!-- hostname/ip of the NodeJS server -->
 	<setting name='hostname'>localhost</setting>
+	<!-- port of the NodeJS server -->
 	<setting name='port'>8100</setting>
+	<!-- Discord role that will have administrative capabilities -->
 	<setting name='adminrole'>Moderator</setting>
 </settings>
